@@ -1,0 +1,17 @@
+{
+  "name": "architect-express-resource",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Cameron Bytheway",
+  "license": "MIT",
+  "dependencies": {
+    "express": "2.5.11",
+    "express-resource": "~0.2.4"
+  },
+  "plugin": {
+    "provides": [
+      "resource"
+    ],
+    "consumes": []
+  }
+}
